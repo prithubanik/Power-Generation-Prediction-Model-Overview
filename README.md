@@ -49,7 +49,4 @@ The following libraries are required to run the code:
 - `seaborn`
 - `lightgbm`
 
-To install the dependencies, you can use:
 
-```bash
-pip install -r requirements.txt
